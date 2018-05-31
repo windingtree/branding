@@ -1,6 +1,9 @@
 # Winding Tree media resources
 
+
 Winding Tree design elements publicly available for anyone who wants to use our brand in the right way.
+
+<img src="logo.svg?sanitize=true" alt="Winding Tree" width="300px">
 
 ## Please do
 
