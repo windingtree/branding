@@ -5,13 +5,23 @@ Winding Tree design elements publicly available for anyone who wants to use our 
 
 <img src="logo.svg?sanitize=true" alt="Winding Tree" width="300px">
 
-## Please do
+## How to use
+
+Install it as an npm dependency directly from GitHub.
+
+```js
+ npm install --save https://github.com/windingtree/media/
+```
+
+## Usage terms
+
+### Please do
 
 - Use the Winding Tree logo to link to Winding Tree.
 - Use the Winding Tree logo to advertise that your product integrates with or uses the Winding Tree platform.
 - Use the Winding Tree logo in a blog post or news article about Winding Tree.
 
-## Please don't
+### Please don't
 
 - Please don't use the Winding Tree logo for your application’s icon
 - Please don't create a modified version of the Winding Tree logo
