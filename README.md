@@ -7,11 +7,7 @@ Winding Tree design elements publicly available for anyone who wants to use our 
 
 ## How to use
 
-Install it as an npm dependency directly from GitHub.
-
-```js
- npm install --save https://github.com/windingtree/media/
-```
+Clone the repo or download directly from GitHub.
 
 ## Usage terms
 
