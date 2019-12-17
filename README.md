@@ -1,9 +1,10 @@
 # Winding Tree media resources
 
-
 Winding Tree design elements publicly available for anyone who wants to use our brand in the right way.
 
-<img src="winding-tree-logo/svg/winding-tree-logo.svg?sanitize=true" alt="Winding Tree" width="300px">
+<img src="winding-tree-logo/svg/winding-tree-logo.svg?sanitize=true" alt="Winding Tree" width="200px">
+<img src="lif-logo/svg/lif-logo.svg?sanitize=true" alt="Líf" width="100px"><br>
+<img src="org.id-logo/svg/org.id-logo.svg?sanitize=true" alt="ORG.ID" width="200px">
 
 ## How to use
 
@@ -13,17 +14,17 @@ Clone the repo or download directly from GitHub.
 
 ### Please do
 
-- Use the Winding Tree logo to link to Winding Tree.
-- Use the Winding Tree logo to advertise that your product integrates with or uses the Winding Tree platform.
-- Use the Winding Tree logo in a blog post or news article about Winding Tree.
+- Use Winding Tree, Líf, or ORG.ID logo to link to our projects.
+- Use Winding Tree, Líf, or ORG.ID logo if your product uses one of our technologies.
+- Use Winding Tree, Líf, or ORG.ID logos in a blog post or news article about our projects.
 
 ### Please don't
 
-- Please don't use the Winding Tree logo for your application’s icon
-- Please don't create a modified version of the Winding Tree logo
-- Please don't integrate the Winding Tree logo into your logo
-- Please don't change the colors or add own text/images on top of Winding Tree logo
+- Please don't use our logos for your application’s icon.
+- Please don't create modified versions of our logos.
+- Please don't integrate our logos logo into your logo.
+- Please don't change the colors or add own text/images on top of our logos.
 
 ### Legal
 
-Winding Tree logos and other images here represent only Winding Tree and should not be used to represent your products.
+Winding Tree, Líf, ORG.ID logos, and other images should not be used to represent your products.
