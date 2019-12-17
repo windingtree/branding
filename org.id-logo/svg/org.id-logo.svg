@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1500 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .fill { fill: url("#gradient"); }
+    </style>
+    <linearGradient id="gradient" x1="0" y1="0" x2="50" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6D6D6"/>
+      <stop offset="1" stop-color="#5947A2"/>
+    </linearGradient>
+  </defs>
+  <path d="M 100,0 H 200 V 100 200 H 100 0 V 100 0 Z" id="O" class="fill"/>
+  <path d="m 500,0 v 100 h -100 v 100 h -100 V 100 0 h 100 z" id="R" class="fill"/>
+  <path d="M 600,100 V 0 H 700 800 V 100 200 H 700 V 100 Z" id="G" class="fill"/>
+  <path d="M 1000,200 H 900 V 100 h 100 z" id="dot" class="fill"/>
+  <path d="M 1200,200 H 1100 V 100 0 h 100 v 100 z" id="I" class="fill"/>
+  <path d="M 1300,200 V 100 h 100 V 0 h 100 v 100 100 h -100 z" id="D" class="fill"/>
+</svg>
