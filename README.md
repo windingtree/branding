@@ -2,9 +2,9 @@
 
 Winding Tree design elements publicly available for anyone who wants to use our brand in the right way.
 
-<img src="winding-tree-logo/svg/winding-tree-logo.svg?sanitize=true" alt="Winding Tree" width="200px">
-<img src="lif-logo/svg/lif-logo.svg?sanitize=true" alt="Líf" width="100px"><br>
-<img src="org.id-logo/svg/org.id-logo.svg?sanitize=true" alt="ORG.ID" width="200px">
+<img src="winding-tree/svg/winding-tree-logo.svg?sanitize=true" alt="Winding Tree" width="200px">
+<img src="lif/svg/lif-logo.svg?sanitize=true" alt="Líf" width="100px"><br>
+<img src="org.id/svg/org.id-logo.svg?sanitize=true" alt="ORG.ID" width="200px">
 
 ## How to use
 
