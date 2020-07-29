@@ -14,9 +14,9 @@ Clone the repo or download directly from GitHub.
 
 ### Please do
 
-- Use Winding Tree, Líf, or ORG.ID logo to link to our projects.
-- Use Winding Tree, Líf, or ORG.ID logo if your product uses one of our technologies.
-- Use Winding Tree, Líf, or ORG.ID logos in a blog post or news article about our projects.
+- Use Winding Tree, Líf, or ORGiD logo to link to our projects.
+- Use Winding Tree, Líf, or ORGiD logo if your product uses one of our technologies.
+- Use Winding Tree, Líf, or ORGiD logos in a blog post or news article about our projects.
 
 ### Please don't
 
@@ -27,4 +27,4 @@ Clone the repo or download directly from GitHub.
 
 ### Legal
 
-Winding Tree, Líf, ORG.ID logos, and other images should not be used to represent your products.
+Winding Tree, Líf, ORGiD logos, and other images should not be used to represent your products.
